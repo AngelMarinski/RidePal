@@ -2,6 +2,13 @@
 
 Playlist generator for your travel.
 
+# 🏆 Awards
+
+🥇 Best project for Telerik Academy C# A41 - [Bede Gaming](https://bedegaming.com/)
+
+🥇 Best project for Telerik Academy C# A41 - [Entain](https://entaingroup.com/)
+
+
 # Project Description
 
 RidePal enables your users to
